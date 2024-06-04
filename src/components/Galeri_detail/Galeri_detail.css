@@ -1,0 +1,46 @@
+.Galeri {
+  min-height: 150vh;
+  background-color: #f0f0f0;
+}
+
+.Galeri .wrapper {
+  padding-top: 130px;
+}
+
+.Galeri .title-galeri {
+  color: #618264;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.Galeri .course-name {
+  color: #8a8a8a;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -40px;
+  margin-bottom: 120px;
+}
+
+.btn-back {
+  display: flex;
+  color: var(--Secondary-1, #79ac78);
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration: none;
+  margin: 20px 0;
+}
+
+.btn-back img {
+  margin-right: 15px;
+}
+
+.isi img {
+  width: 100%;
+}
